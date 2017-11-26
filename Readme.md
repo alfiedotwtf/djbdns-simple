@@ -34,7 +34,7 @@ Please report software bugs or feature requests to:
 # AUTHOR
 
   * [Daniel J. Bernstein](https://cr.yp.to) (djbdns)
-  * [Alfie John](https://www.alfie.wtf) [alfie@fastmail.com](mailto:alfie.wtf) (this readme and install.sh)
+  * [Alfie John](https://www.alfie.wtf) [alfie@alfie.wtf](mailto:alfie@alfie.wtf) (this readme and install.sh)
 
 # WARRANTY
 
